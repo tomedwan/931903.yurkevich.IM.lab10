@@ -1,0 +1,40 @@
+C:\Users\TRUMP\source\repos\Lab10\bin\Debug\Lab10.exe.config
+C:\Users\TRUMP\source\repos\Lab10\bin\Debug\Lab10.exe
+C:\Users\TRUMP\source\repos\Lab10\bin\Debug\Lab10.pdb
+C:\Users\TRUMP\source\repos\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+C:\Users\TRUMP\source\repos\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+C:\Users\TRUMP\source\repos\Lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+C:\Users\TRUMP\source\repos\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\TRUMP\source\repos\Lab10\obj\Debug\Lab10.exe
+C:\Users\TRUMP\source\repos\Lab10\obj\Debug\Lab10.pdb
+C:\Users\TRUMP\source\repos\Lab10\obj\Debug\Lab10.Form1.resources
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\bin\Debug\Lab10.exe.config
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\bin\Debug\Lab10.exe
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\bin\Debug\Lab10.pdb
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\obj\Debug\Lab10.Form1.resources
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\obj\Debug\Lab10.exe
+d:\Сериалы, фильмы, аниме\файлы за 3 курс\имитационное моделирование второй семак\Lab10\obj\Debug\Lab10.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\bin\Debug\Lab10.exe.config
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\bin\Debug\Lab10.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\bin\Debug\Lab10.pdb
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\obj\Debug\Lab10.csprojAssemblyReference.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\obj\Debug\Lab10.Form1.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\obj\Debug\Lab10.Properties.Resources.resources
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\obj\Debug\Lab10.exe
+d:\Сериалы, фильмы, аниме\931902 ДЗ\Им.мод\Lab10\obj\Debug\Lab10.pdb
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\bin\Debug\Lab10.exe.config
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\bin\Debug\Lab10.exe
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\bin\Debug\Lab10.pdb
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\obj\Debug\Lab10.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\obj\Debug\Lab10.Form1.resources
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\obj\Debug\Lab10.Properties.Resources.resources
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\obj\Debug\Lab10.csproj.GenerateResource.cache
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\obj\Debug\Lab10.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\obj\Debug\Lab10.exe
+C:\Users\user\Desktop\IM.931903.Smirnov.Nikita.lab10\obj\Debug\Lab10.pdb
